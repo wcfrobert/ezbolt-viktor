@@ -1,0 +1,4 @@
+viktor==14.6.1
+matplotlib
+numpy
+pandas
